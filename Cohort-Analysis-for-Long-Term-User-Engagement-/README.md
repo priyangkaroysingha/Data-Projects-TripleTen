@@ -34,4 +34,12 @@
    ![image](https://github.com/priyangkaroysingha/Data-Projects-TripleTen/assets/133033148/3b77c714-bb62-4ec3-877b-002e3c9c6aff)
    ![image](https://github.com/priyangkaroysingha/Data-Projects-TripleTen/assets/133033148/ce282cca-986f-40a0-8c29-3bdd560842a9)
 
+## Ideas for further improvement
+* Understand Users Better: Group users by behavior for personalized strategies.
+* Predict User Drop-offs: Use smart tech to predict when users might leave and stop that from happening.
+* Ask Users for Feedback: Keep talking to users and asking for feedback to make their experience better.
+* Make It Easy Everywhere: Ensure users have a smooth experience on all platforms, making it easy for them.
+* Make it Fun to Stay: Add games or rewards to make users want to stay and be part of your community.
+   
+
 
