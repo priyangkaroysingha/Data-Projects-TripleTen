@@ -26,4 +26,18 @@ Led a comprehensive project focused on analyzing key metrics of NYC Airbnb data,
 The project empowered stakeholders with data-driven insights for property investment decisions. By strategically analyzing rental activity, prioritizing neighborhoods, and understanding property size preferences, the project provided valuable guidance for optimizing investment choices. The estimated annual revenue of $6,948,586.22 for Lower East Side one-bedroom listings further enhanced decision-making capabilities, ensuring a strategic and informed approach to property investment in the NYC Airbnb market.
 ## Live Demo
 [Link to Live Demo](https://docs.google.com/spreadsheets/d/1fCJS1ph2IX5sgJ2kZOO88lmfXCBiBDsvzbdTh0HmIbw/edit?usp=sharing)
+## Workbook Preview
+![image](https://github.com/priyangkaroysingha/Data-Projects-TripleTen/assets/133033148/4ca96b27-687f-4afc-bcbe-2ad6fa96a5a7)
+![image](https://github.com/priyangkaroysingha/Data-Projects-TripleTen/assets/133033148/f82b1b1a-73d5-4636-9cf3-7a71dd4d5d8e)
+## Ideas for further improvement
+* Know Your Users Better: Understand what users like and want for more personalized offerings.
+* Stay Updated: Regularly check data for trends and keep improving based on what users like.
+* Feedback Matters: Ask users for feedback to make their experience even better.
+* Explore New Areas: Look into different neighborhoods for potential growth and investment.
+* Adapt to Trends: Keep an eye on property size trends and adjust offerings accordingly.
+* Enhance Weekday Experience: Focus on making weekdays more appealing for users.
+* Invest Smartly: Use insights to guide smart investments for better returns
+
+
+
 
