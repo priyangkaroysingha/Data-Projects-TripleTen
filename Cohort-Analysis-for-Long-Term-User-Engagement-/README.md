@@ -29,5 +29,9 @@
                                                                                     
 ### Live Demo
 * [Link to Live Demo](https://docs.google.com/spreadsheets/d/11l6QliqWnS_k9m3nViifC_97N_qI6KETlJBrF9sFDd0/edit?usp=sharing)
-  
-  
+
+## Workbook Preview
+   ![image](https://github.com/priyangkaroysingha/Data-Projects-TripleTen/assets/133033148/3b77c714-bb62-4ec3-877b-002e3c9c6aff)
+   ![image](https://github.com/priyangkaroysingha/Data-Projects-TripleTen/assets/133033148/ce282cca-986f-40a0-8c29-3bdd560842a9)
+
+
