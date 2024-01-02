@@ -17,3 +17,14 @@ Executed a comprehensive Tableau project focusing on developing a strategic dash
 The Tableau dashboard streamlined returns management, reducing return rates and optimizing inventory. Improved customer satisfaction scores reflected the success of targeted strategies implemented based on dashboard insights. The project's data-driven approach contributed to a more efficient and customer-centric business model.
 ## Live Demo
 [Link to Live Demo](https://public.tableau.com/views/StorytellingwithSuperstoredataNew/UnderstandingandMinimizingReturnsatSuperstore?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Workbook Preview
+![image](https://github.com/priyangkaroysingha/Data-Projects-TripleTen/assets/133033148/ee49aa30-517f-43df-8c86-95e0537e6535)
+## Ideas for further improvement
+* AI Integration: Explore integrating AI algorithms for advanced return predictions and insights.
+* Segmented Analysis: Conduct segmented analysis based on customer demographics for targeted strategies.
+* Feedback Surveys: Implement automated feedback surveys within the dashboard for user opinions.
+* Cost-Benefit Analysis: Conduct a cost-benefit analysis of return reduction strategies for optimization.
+* Supply Chain Integration: Collaborate with supply chain partners for a holistic approach to returns.
+* Cross-functional Workshops: Organize cross-functional workshops to brainstorm innovative return solutions.
+
+
